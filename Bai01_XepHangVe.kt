@@ -2,7 +2,7 @@
 val tuoi = 10
 
 val loaive = if(tuoi <=10) {
-    print("Vé trẻ trâu  !!")
+    print("Vé trẻ em  !!")
 } else if (tuoi <= 20) {
     print("Vé người lớn!!")
 } else print("Vé người già!!")
